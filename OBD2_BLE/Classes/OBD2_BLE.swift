@@ -45,7 +45,7 @@ public class OBD2_BLE: NSObject, CBCentralManagerDelegate, CBPeripheralDelegate 
     static let sharedInstance = OBD2_BLE()
     private static let setup = OBD2_BLESetup()
     
-    class func setup(restoreId: String){
+    class func setup(restoreId: String) {
         OBD2_BLE.setup.restoreId = restoreId
     }
     
