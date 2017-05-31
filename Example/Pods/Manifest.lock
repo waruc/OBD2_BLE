@@ -1,0 +1,22 @@
+PODS:
+  - Alamofire (4.4.0)
+  - OBD2_BLE (0.1.0):
+    - Alamofire (~> 4.4)
+    - SwiftyJSON (~> 3.1)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - OBD2_BLE (from `../`)
+
+EXTERNAL SOURCES:
+  OBD2_BLE:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  OBD2_BLE: 443a6969b6d5b3df032da6b528dc8038135c1960
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: b89846e5bf11b8f34cbe407dbb75d82a9802ce1b
+
+COCOAPODS: 1.2.1

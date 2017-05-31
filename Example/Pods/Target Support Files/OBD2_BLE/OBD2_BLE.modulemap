@@ -1,0 +1,6 @@
+framework module OBD2_BLE {
+  umbrella header "OBD2_BLE-umbrella.h"
+
+  export *
+  module * { export * }
+}

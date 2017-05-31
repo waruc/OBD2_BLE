@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/OBD2_BLE.svg?style=flat)](http://cocoapods.org/pods/OBD2_BLE)
 [![Platform](https://img.shields.io/cocoapods/p/OBD2_BLE.svg?style=flat)](http://cocoapods.org/pods/OBD2_BLE)
 
+#### OBD2_BLE is a Swift framework for interfacing with OBD-II devices using iOS Bluetooth Low Energy capabilities.
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
@@ -22,7 +24,7 @@ pod "OBD2_BLE"
 
 ## Author
 
-nordale1-1541045, nicknordale@gmail.com
+Nick Nordale, nicknordale@gmail.com
 
 ## License
 
