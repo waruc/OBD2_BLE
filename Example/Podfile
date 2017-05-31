@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'OBD2_BLE_Example' do
+  pod 'OBD2_BLE', :path => '../'
+
+  target 'OBD2_BLE_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
